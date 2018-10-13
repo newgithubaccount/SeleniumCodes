@@ -7,6 +7,7 @@ import org.testng.asserts.SoftAssert;
 public class AssertDemoTest {
 	
 	int i=11;	
+	int d=20;
 	@Test
 	public void demo()
 	{
